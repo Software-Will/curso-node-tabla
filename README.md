@@ -1,4 +1,4 @@
-#Notas:
+# Notas:
 
 Este programa se creo con yargs y es el primer creado por mi en Node
 
