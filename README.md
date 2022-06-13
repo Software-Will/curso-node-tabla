@@ -1,6 +1,6 @@
 # Notas:
 
-Este programa se creo con yargs y es el primer creado por mi en Node
+Este programa se creo con yargs y es el primero creado en consola 
 
 ```
 Opciones:
